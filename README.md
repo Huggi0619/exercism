@@ -8,7 +8,6 @@ The goal of these exercises is to improve my proficiency in Python by solving pr
 ## Structure
 The repository is organized by exercise name. Each folder typically contains:
 * `solution.py`: My implementation of the problem.
-* `README.md`: The exercise description and requirements (provided by Exercism).
 
 ## Key Learning Areas
 * **Control Flow:** Loops, conditionals, and exception handling.
